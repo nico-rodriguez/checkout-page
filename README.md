@@ -16,17 +16,19 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f060715d-8bed-410f-8835-2e672766b342/deploy-status)](https://app.netlify.com/sites/checkout-page-864c4b/deploys)
+
 ## Overview
 
 Visit [https://checkout-page-864c4b.netlify.app/](https://checkout-page-864c4b.netlify.app/)
 
 Desktop
 
-![screenshot](./screenshot-desktop.png)
+![screenshot](./doc-images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./screenshot-mobile.png)
+![screenshot](./doc-images/screenshot-mobile.png)
 
 ## Features
 
